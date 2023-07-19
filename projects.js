@@ -31,7 +31,7 @@ const projects = [
         ],
         liveLink: "https://eshop-8646.netlify.app/",
         githubLink:
-            "https://github.com/AshishBansal-Official/MERNProject-eShop",
+            "https://github.com/Abimesdo/MERNProject-eShop",
     },
     {
         image: ytdClone,
@@ -40,7 +40,7 @@ const projects = [
         techUsed: [html, css, tailwind, javascript, react, redux, firebase],
         liveLink: "https://ytdclone.netlify.app/",
         githubLink:
-            "https://github.com/AshishBansal-Official/ReactProject-Youtube_Clone",
+            "https://github.com/Abimesdol/ReactProject-Youtube_Clone",
     },
     {
         image: netflixClone,
@@ -58,7 +58,7 @@ const projects = [
         demoLink:
             "https://drive.google.com/file/d/1oJ3zDqxXbgRrZNCCqSma8gUqhSEnSL_p/view",
         githubLink:
-            "https://github.com/AshishBansal-Official/ReactProject-Netflix_Clone",
+            "https://github.com/Abimesdo/ReactProject-Netflix_Clone",
     },
     {
         image: disneyPlusClone,
@@ -75,7 +75,7 @@ const projects = [
         ],
         liveLink: "https://disney-plus-clone-481e7.web.app/",
         githubLink:
-            "https://github.com/AshishBansal-Official/ReactProject-Disney_Plus_Clone",
+            "https://github.com/Abimeso/ReactProject-Disney_Plus_Clone",
     },
 ];
 
